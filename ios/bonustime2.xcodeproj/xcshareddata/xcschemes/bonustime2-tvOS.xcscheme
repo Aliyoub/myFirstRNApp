@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "bonustime2-tvOS.app"
-               BlueprintName = "bonustime2-tvOS"
-               ReferencedContainer = "container:bonustime2.xcodeproj">
+               BuildableName = "assmatdispo-tvOS.app"
+               BlueprintName = "assmatdispo-tvOS"
+               ReferencedContainer = "container:assmatdispo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "bonustime2-tvOSTests.xctest"
-               BlueprintName = "bonustime2-tvOSTests"
-               ReferencedContainer = "container:bonustime2.xcodeproj">
+               BuildableName = "assmatdispo-tvOSTests.xctest"
+               BlueprintName = "assmatdispo-tvOSTests"
+               ReferencedContainer = "container:assmatdispo.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "bonustime2-tvOSTests.xctest"
-               BlueprintName = "bonustime2-tvOSTests"
-               ReferencedContainer = "container:bonustime2.xcodeproj">
+               BuildableName = "assmatdispo-tvOSTests.xctest"
+               BlueprintName = "assmatdispo-tvOSTests"
+               ReferencedContainer = "container:assmatdispo.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "bonustime2-tvOS.app"
-            BlueprintName = "bonustime2-tvOS"
-            ReferencedContainer = "container:bonustime2.xcodeproj">
+            BuildableName = "assmatdispo-tvOS.app"
+            BlueprintName = "assmatdispo-tvOS"
+            ReferencedContainer = "container:assmatdispo.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "bonustime2-tvOS.app"
-            BlueprintName = "bonustime2-tvOS"
-            ReferencedContainer = "container:bonustime2.xcodeproj">
+            BuildableName = "assmatdispo-tvOS.app"
+            BlueprintName = "assmatdispo-tvOS"
+            ReferencedContainer = "container:assmatdispo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "bonustime2-tvOS.app"
-            BlueprintName = "bonustime2-tvOS"
-            ReferencedContainer = "container:bonustime2.xcodeproj">
+            BuildableName = "assmatdispo-tvOS.app"
+            BlueprintName = "assmatdispo-tvOS"
+            ReferencedContainer = "container:assmatdispo.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

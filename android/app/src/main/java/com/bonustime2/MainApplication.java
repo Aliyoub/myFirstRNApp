@@ -1,4 +1,4 @@
-package com.bonustime2;
+package com.assmatdispo;
 
 import android.app.Application;
 import android.util.Log;

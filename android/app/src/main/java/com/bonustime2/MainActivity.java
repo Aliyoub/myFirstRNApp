@@ -1,4 +1,4 @@
-package com.bonustime2;
+package com.assmatdispo;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "bonustime2";
+        return "assmatdispo";
     }
 }

@@ -128,7 +128,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.bonustime2"
+        applicationId "com.assmatdispo"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
